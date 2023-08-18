@@ -1,6 +1,6 @@
-package atividade 1;
+package atividade1;
 
-public class VerificadorNumeroPrimo {
+public class verificaNumeroPrimo {
 
     public static void main(String[] args) {
         int numero = 17; // Altere o número que deseja verificar aqui
