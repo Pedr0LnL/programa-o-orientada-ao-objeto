@@ -1,10 +1,6 @@
 package atividade5;
 import java.util.Scanner;
 
-import atividade5.Carro;
-
-import atividade5.Bicicleta;
-
 public class Executavel {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
